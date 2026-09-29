@@ -1,0 +1,17 @@
+# Dependencies
+node_modules
+.pnpm-store
+
+# Production build outputs
+dist
+dist-ssr
+*.local
+
+# Editor directories
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# OS metadata
+.DS_Store
+Thumbs.db
